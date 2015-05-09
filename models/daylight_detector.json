@@ -1,0 +1,41 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "side": "blocks/daylight_detector_side",
+        "top": "blocks/daylight_detector_top",
+        "bottom": "blocks/daylight_detector_bottom",
+        "particle": "blocks/daylight_detector_bottom"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,6,16],
+            "faces": {
+                "up": {
+                    "texture": "#top"
+                },
+                "down": {
+                    "texture": "#bottom",
+                    "cullface": down
+                },
+                "west": {
+                    "texture": "#side",
+                    "cullface": west
+                },
+                "east": {
+                    "texture": "#side",
+                    "cullface": east
+                },
+                "north": {
+                    "texture": "#side",
+                    "cullface": north
+                },
+                "south": {
+                    "texture": "#side",
+                    "cullface": south
+                }
+            }
+        }
+    ]
+}

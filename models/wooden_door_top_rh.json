@@ -1,0 +1,202 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/door_wood_upper",
+        "door_wood_upper": "blocks/door_wood_upper"
+    },
+    "elements": [
+        {
+            "from": [0.5,0.5,7.5],
+            "to": [2.5,15.5,8.5],
+            "faces": {
+                "up": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 90
+                },
+                "west": {
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [8.5,0.5,7.5,15.5],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        },
+        {
+            "from": [0,0,13],
+            "to": [3,16,16],
+            "faces": {
+                "up": {
+                    "uv": [13,0,16,3],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [3,0,0,16],
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "uv": [3,0,0,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        },
+        {
+            "from": [0,13,3],
+            "to": [3,16,13],
+            "faces": {
+                "up": {
+                    "uv": [13,3,16,13],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [13,0,3,3],
+                    "texture": "#door_wood_upper",
+                    "rotation": 270
+                },
+                "west": {
+                    "uv": [3,0,13,3],
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [13,0,3,3],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        },
+        {
+            "from": [0,0,0],
+            "to": [3,16,3],
+            "faces": {
+                "up": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [16,0,13,16],
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [13,0,16,16],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "uv": [3,0,0,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        },
+        {
+            "from": [0,0,3],
+            "to": [3,1,13],
+            "faces": {
+                "up": {
+                    "uv": [13,3,16,13],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [13,13,16,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [3,15,13,16],
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [13,15,3,16],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        },
+        {
+            "from": [0.5,6.5,2.5],
+            "to": [2.5,7.5,13.5],
+            "faces": {
+                "up": {
+                    "uv": [13.5,2.5,15.5,13.5],
+                    "texture": "#door_wood_upper"
+                },
+                "down": {
+                    "uv": [2.5,0.5,13.5,2.5],
+                    "texture": "#door_wood_upper",
+                    "rotation": 90
+                },
+                "west": {
+                    "texture": "#door_wood_upper"
+                },
+                "east": {
+                    "uv": [13.5,8.5,2.5,9.5],
+                    "texture": "#door_wood_upper"
+                },
+                "north": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                },
+                "south": {
+                    "uv": [0,0,3,16],
+                    "texture": "#door_wood_upper",
+                    "rotation": 180
+                }
+            }
+        }
+    ]
+}
